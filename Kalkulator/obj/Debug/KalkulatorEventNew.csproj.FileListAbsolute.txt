@@ -1,0 +1,11 @@
+E:\kuliah\qqwe\KalkulatorEventNew-master\KalkulatorEventNew\bin\Debug\KalkulatorEventNew.exe.config
+E:\kuliah\qqwe\KalkulatorEventNew-master\KalkulatorEventNew\bin\Debug\KalkulatorEventNew.exe
+E:\kuliah\qqwe\KalkulatorEventNew-master\KalkulatorEventNew\bin\Debug\KalkulatorEventNew.pdb
+E:\kuliah\qqwe\KalkulatorEventNew-master\KalkulatorEventNew\obj\Debug\KalkulatorEventNew.csprojAssemblyReference.cache
+E:\kuliah\qqwe\KalkulatorEventNew-master\KalkulatorEventNew\obj\Debug\KalkulatorEventNew.FormInduk.resources
+E:\kuliah\qqwe\KalkulatorEventNew-master\KalkulatorEventNew\obj\Debug\KalkulatorEventNew.Perhitungan.resources
+E:\kuliah\qqwe\KalkulatorEventNew-master\KalkulatorEventNew\obj\Debug\KalkulatorEventNew.Properties.Resources.resources
+E:\kuliah\qqwe\KalkulatorEventNew-master\KalkulatorEventNew\obj\Debug\KalkulatorEventNew.csproj.GenerateResource.cache
+E:\kuliah\qqwe\KalkulatorEventNew-master\KalkulatorEventNew\obj\Debug\KalkulatorEventNew.csproj.CoreCompileInputs.cache
+E:\kuliah\qqwe\KalkulatorEventNew-master\KalkulatorEventNew\obj\Debug\KalkulatorEventNew.exe
+E:\kuliah\qqwe\KalkulatorEventNew-master\KalkulatorEventNew\obj\Debug\KalkulatorEventNew.pdb
